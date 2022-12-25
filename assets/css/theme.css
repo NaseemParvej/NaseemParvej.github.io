@@ -337,6 +337,10 @@ body.tt-boxed .tt-wrap {
   margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
+  
+}
+#tt-boxAbout{
+  margin-top: 40px;
 }
 
 body.tt-boxed .tt-wrap .tt-wrap {
